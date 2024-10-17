@@ -1,0 +1,40 @@
+2024-10-17 19:47:11.181 [info] [main] Log level: Info
+2024-10-17 19:47:11.181 [info] [main] Validating found git in: "git"
+2024-10-17 19:47:11.181 [info] [main] Using git "2.40.1" from "git"
+2024-10-17 19:47:11.181 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-17 19:47:11.181 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-17 19:47:11.188 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-10-17 19:47:11.228 [info] [Model][openRepository] Opened repository: /home/ec2-user
+2024-10-17 19:47:11.565 [info] > git rev-parse --show-toplevel [314ms]
+2024-10-17 19:47:11.568 [info] > git config --get commit.template [326ms]
+2024-10-17 19:47:11.593 [info] > git rev-parse --show-toplevel [17ms]
+2024-10-17 19:47:11.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-10-17 19:47:11.599 [warning] [Git][getBranch] No such branch: main
+2024-10-17 19:47:11.612 [info] > git rev-parse --show-toplevel [15ms]
+2024-10-17 19:47:11.618 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-10-17 19:47:11.624 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-17 19:47:11.639 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-17 19:47:11.647 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-17 19:47:11.692 [info] > git show --textconv :register.html [8ms]
+2024-10-17 19:47:11.694 [info] > git ls-files --stage -- /home/ec2-user/register.html [4ms]
+2024-10-17 19:47:11.789 [info] > git check-ignore -v -z --stdin [4ms]
+2024-10-17 19:47:11.855 [info] > git status -z -uall [250ms] (cancelled)
+2024-10-17 19:47:23.136 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1102ms]
+2024-10-17 19:47:23.136 [warning] [Git][getBranch] No such branch: main
+2024-10-17 19:47:23.137 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2024-10-17 19:47:23.179 [info] > git config --get commit.template [46ms]
+2024-10-17 19:47:23.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-17 19:47:23.190 [warning] [Git][getBranch] No such branch: main
+2024-10-17 19:47:23.206 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-10-17 19:47:23.447 [info] > git status -z -uall [254ms] (cancelled)
+2024-10-17 19:47:24.478 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [13ms]
+2024-10-17 19:47:24.478 [info] fatal: bad revision 'refs/heads/main'
+2024-10-17 19:47:24.478 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-10-17 19:47:24.969 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-17 19:47:32.647 [info] > git ls-files --stage -- /home/ec2-user/register.html [2ms]
+2024-10-17 19:47:32.774 [info] > git show --textconv :register.html [10ms]
