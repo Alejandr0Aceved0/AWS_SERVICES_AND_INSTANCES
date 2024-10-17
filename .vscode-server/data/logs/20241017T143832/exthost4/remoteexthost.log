@@ -17,3 +17,7 @@
 2024-10-17 19:47:37.222 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
 2024-10-17 19:47:37.222 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
 2024-10-17 19:47:37.222 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-10-17 19:48:28.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2024-10-17 19:48:55.533 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-10-17 19:49:18.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-10-17 19:52:10.889 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

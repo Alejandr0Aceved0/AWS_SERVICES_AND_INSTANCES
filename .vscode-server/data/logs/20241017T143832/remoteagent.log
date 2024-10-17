@@ -147,3 +147,4 @@
 2024-10-17 19:47:07.033 [info] [<unknown>][b32db317][ExtensionHostConnection] New connection established.
 2024-10-17 19:47:07.034 [info] [<unknown>][973fec11][ManagementConnection] New connection established.
 2024-10-17 19:47:07.040 [info] [<unknown>][b32db317][ExtensionHostConnection] <4851> Launched Extension Host Process.
+2024-10-17 19:52:03.701 [info] New EH opened, aborting shutdown
