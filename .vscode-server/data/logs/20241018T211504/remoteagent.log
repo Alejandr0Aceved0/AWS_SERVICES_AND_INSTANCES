@@ -1,0 +1,39 @@
+2024-10-18 21:15:04.960 [info] 
+
+
+
+
+2024-10-18 21:15:04.976 [info] Extension host agent started.
+2024-10-18 21:15:05.182 [info] [<unknown>][c813024e][ManagementConnection] New connection established.
+2024-10-18 21:15:05.185 [info] [<unknown>][31c5e642][ExtensionHostConnection] New connection established.
+2024-10-18 21:15:05.267 [info] [<unknown>][31c5e642][ExtensionHostConnection] <3338> Launched Extension Host Process.
+2024-10-18 21:15:22.921 [info] [<unknown>][c813024e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 21:15:22.944 [info] [<unknown>][31c5e642][ExtensionHostConnection] <3338> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 21:15:22.944 [info] Cancelling previous shutdown timeout
+2024-10-18 21:15:22.944 [info] Last EH closed, waiting before shutting down
+2024-10-18 21:15:26.778 [info] [<unknown>][ec26e529][ManagementConnection] New connection established.
+2024-10-18 21:15:26.779 [info] [<unknown>][231ace1c][ExtensionHostConnection] New connection established.
+2024-10-18 21:15:26.783 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> Launched Extension Host Process.
+2024-10-18 21:20:22.947 [info] New EH opened, aborting shutdown
+2024-10-18 21:20:22.950 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-18 21:26:32.642 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/styles/appHome.css [33m404[0m 2.864 ms - 167[0m
+
+2024-10-18 21:26:32.859 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/appHome.js [33m404[0m 0.797 ms - 159[0m
+
+2024-10-18 21:26:41.519 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/appRegister.js [33m404[0m 1.084 ms - 163[0m
+
+2024-10-18 21:26:41.521 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/styles/appRegister.css [33m404[0m 1.065 ms - 171[0m
+
+2024-10-18 21:30:45.744 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/appHome.js [33m404[0m 0.950 ms - 159[0m
+
+2024-10-18 21:30:45.745 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/styles/appHome.css [33m404[0m 1.843 ms - 167[0m
+
+2024-10-18 21:31:09.105 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/appHome.js [33m404[0m 0.493 ms - 159[0m
+
+2024-10-18 21:31:16.679 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> [0mGET /templates/appHome.js [33m404[0m 1.808 ms - 159[0m
+
+2024-10-18 21:36:35.732 [info] [<unknown>][ec26e529][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 21:36:35.876 [info] [<unknown>][231ace1c][ExtensionHostConnection] <3454> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 21:36:35.877 [info] Last EH closed, waiting before shutting down

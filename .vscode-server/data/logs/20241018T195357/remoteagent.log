@@ -1,0 +1,34 @@
+2024-10-18 19:53:58.047 [info] 
+
+
+
+
+2024-10-18 19:53:58.063 [info] Extension host agent started.
+2024-10-18 19:53:58.260 [info] [<unknown>][c2f3365e][ExtensionHostConnection] New connection established.
+2024-10-18 19:53:58.261 [info] [<unknown>][9285c977][ManagementConnection] New connection established.
+2024-10-18 19:53:58.336 [info] [<unknown>][c2f3365e][ExtensionHostConnection] <3331> Launched Extension Host Process.
+2024-10-18 19:55:52.109 [info] [<unknown>][9285c977][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 19:55:52.139 [info] [<unknown>][c2f3365e][ExtensionHostConnection] <3331> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 19:55:52.141 [info] Cancelling previous shutdown timeout
+2024-10-18 19:55:52.141 [info] Last EH closed, waiting before shutting down
+2024-10-18 19:56:33.745 [info] [<unknown>][749446d4][ExtensionHostConnection] New connection established.
+2024-10-18 19:56:33.746 [info] [<unknown>][49ff0da4][ManagementConnection] New connection established.
+2024-10-18 19:56:33.749 [info] [<unknown>][749446d4][ExtensionHostConnection] <3447> Launched Extension Host Process.
+2024-10-18 19:56:44.046 [info] [<unknown>][49ff0da4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 19:56:44.076 [info] [<unknown>][749446d4][ExtensionHostConnection] <3447> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 19:56:44.076 [info] Cancelling previous shutdown timeout
+2024-10-18 19:56:44.076 [info] Last EH closed, waiting before shutting down
+2024-10-18 19:56:47.160 [info] [<unknown>][f68c8f17][ExtensionHostConnection] New connection established.
+2024-10-18 19:56:47.160 [info] [<unknown>][14574ce1][ManagementConnection] New connection established.
+2024-10-18 19:56:47.164 [info] [<unknown>][f68c8f17][ExtensionHostConnection] <3551> Launched Extension Host Process.
+2024-10-18 19:58:18.255 [info] [<unknown>][14574ce1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 19:58:18.274 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-18 19:58:18.312 [info] [<unknown>][f68c8f17][ExtensionHostConnection] <3551> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 19:58:18.313 [info] Cancelling previous shutdown timeout
+2024-10-18 19:58:18.313 [info] Last EH closed, waiting before shutting down
+2024-10-18 19:58:21.573 [info] [<unknown>][c001ea60][ManagementConnection] New connection established.
+2024-10-18 19:58:21.574 [info] [<unknown>][a682e24b][ExtensionHostConnection] New connection established.
+2024-10-18 19:58:21.578 [info] [<unknown>][a682e24b][ExtensionHostConnection] <4101> Launched Extension Host Process.
+2024-10-18 20:03:18.314 [info] New EH opened, aborting shutdown

@@ -1,0 +1,25 @@
+2024-10-18 15:10:27.615 [info] Extension host with pid 3440 started
+2024-10-18 15:10:27.615 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/d98ec575b5d4a92322392fdf8f492d82/vscode.lock'
+2024-10-18 15:10:27.627 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/d98ec575b5d4a92322392fdf8f492d82/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-18 15:10:27.644 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/d98ec575b5d4a92322392fdf8f492d82/vscode.lock': The pid 4851 appears to be gone.
+2024-10-18 15:10:27.644 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/d98ec575b5d4a92322392fdf8f492d82/vscode.lock': Deleting a stale lock.
+2024-10-18 15:10:27.650 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/d98ec575b5d4a92322392fdf8f492d82/vscode.lock': Lock acquired.
+2024-10-18 15:10:27.937 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 15:10:27.938 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-18 15:10:27.939 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-18 15:10:27.939 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-18 15:10:28.534 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-18 15:10:28.534 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-18 15:10:29.329 [info] Eager extensions activated
+2024-10-18 15:10:29.329 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 15:10:29.329 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 15:10:29.331 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 15:10:29.331 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 15:20:01.083 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 15:20:01.083 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 15:20:01.083 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-18 15:20:10.570 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-18 15:20:11.342 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-18 15:20:11.343 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-18 15:52:15.808 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-18 15:52:21.693 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'

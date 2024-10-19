@@ -1,0 +1,39 @@
+2024-10-18 19:58:30.923 [info] Experiment 'pythonaacf' is active
+2024-10-18 19:58:30.923 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-18 19:58:30.923 [info] Experiment 'pythonSurveyNotification' is active
+2024-10-18 19:58:30.923 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-18 19:58:30.923 [info] Experiment 'pythonTestAdapter' is active
+2024-10-18 19:58:30.923 [warning] Dir "/home/ec2-user/.pixi/envs" is not watchable (directory does not exist)
+2024-10-18 19:58:30.923 [info] Default formatter is set to null for workspace /home/ec2-user
+2024-10-18 19:58:30.923 [info] Python interpreter path: /usr/bin/python
+2024-10-18 19:58:31.168 [info] > pyenv which python
+2024-10-18 19:58:31.168 [info] cwd: .
+2024-10-18 19:58:31.381 [info] > pixi --version
+2024-10-18 19:58:32.878 [info] Starting Pylance language server.
+2024-10-18 20:00:10.942 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-10-18 20:02:08.570 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:03:08.262 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:03:09.792 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:03:50.130 [info] Send text to terminal: /usr/bin/python /home/ec2-user/server.py
+2024-10-18 20:14:46.277 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-10-18 20:15:03.702 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:16:27.587 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:18:45.123 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:19:02.196 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:19:51.837 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:21:18.852 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-10-18 20:22:03.583 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-10-18 20:25:20.716 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:25:30.543 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:25:49.271 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:27:48.373 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:28:45.414 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:28:51.665 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:28:58.582 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:29:01.891 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:29:48.836 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:30:01.638 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:30:51.022 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:30:59.069 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-18 20:38:03.701 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-10-18 20:38:39.847 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py

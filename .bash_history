@@ -71,3 +71,5 @@ celar
 clear
 sudo python server.py
 sudo python3 server.py
+clear
+sudo python3 server.py

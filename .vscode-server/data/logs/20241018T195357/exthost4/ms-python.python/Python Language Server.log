@@ -1,0 +1,49 @@
+2024-10-18 19:58:32.352 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-18 19:58:32.834 [info] [Info  - 7:58:32 PM] (4359) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-18 19:58:32.836 [info] [Info  - 7:58:32 PM] (4359) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-18 19:58:32.845 [info] [Info  - 7:58:32 PM] (4359) Starting service instance "ec2-user"
+2024-10-18 19:58:32.982 [info] [Info  - 7:58:32 PM] (4359) Setting environmentName for service "ec2-user": "2.7.18 (global)"
+2024-10-18 19:58:32.982 [info] [Info  - 7:58:32 PM] (4359) Setting pythonPath for service "ec2-user": "/usr/bin/python"
+2024-10-18 19:58:32.982 [info] [Info  - 7:58:32 PM] (4359) No include entries specified; assuming /home/ec2-user
+2024-10-18 19:58:32.983 [info] [Info  - 7:58:32 PM] (4359) Auto-excluding **/node_modules
+2024-10-18 19:58:32.984 [info] [Info  - 7:58:32 PM] (4359) Auto-excluding **/__pycache__
+2024-10-18 19:58:32.984 [info] [Info  - 7:58:32 PM] (4359) Auto-excluding **/.*
+2024-10-18 19:58:32.989 [info] Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+2024-10-18 19:58:33.143 [info] [Info  - 7:58:33 PM] (4359) Found 2 source files
+2024-10-18 19:58:34.494 [info] [Info  - 7:58:34 PM] (4359) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-18 19:58:34.537 [info] [Info  - 7:58:34 PM] (4359) Background analysis(1) started
+2024-10-18 19:58:34.832 [info] [Info  - 7:58:34 PM] (4359) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-18 19:58:34.834 [info] [Info  - 7:58:34 PM] (4359) Indexing(2) started
+2024-10-18 19:58:36.787 [info] [Info  - 7:58:36 PM] (4359) scanned(2) 56 files over 1 exec env
+2024-10-18 19:58:37.299 [info] [Info  - 7:58:37 PM] (4359) indexed(2) 56 files over 1 exec env
+2024-10-18 19:58:37.341 [info] [Info  - 7:58:37 PM] (4359) Indexing finished(2).
+2024-10-18 20:13:19.150 [info] [Info  - 8:13:19 PM] (4359) Indexer background runner(3) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (refresh)
+2024-10-18 20:13:19.151 [info] [Info  - 8:13:19 PM] (4359) Indexing(3) started
+2024-10-18 20:13:21.051 [info] [Info  - 8:13:21 PM] (4359) scanned(3) 57 files over 1 exec env
+2024-10-18 20:13:21.891 [info] [Info  - 8:13:21 PM] (4359) indexed(3) 57 files over 1 exec env
+2024-10-18 20:13:21.991 [info] [Info  - 8:13:21 PM] (4359) Indexing finished(3).
+2024-10-18 20:13:34.619 [info] [Info  - 8:13:34 PM] (4359) Indexer background runner(4) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (refresh)
+2024-10-18 20:13:34.619 [info] [Info  - 8:13:34 PM] (4359) Indexing(4) started
+2024-10-18 20:13:36.405 [info] [Info  - 8:13:36 PM] (4359) scanned(4) 79 files over 1 exec env
+2024-10-18 20:13:36.713 [info] [Info  - 8:13:36 PM] (4359) [BG(1)] Long operation: checking: file:///home/ec2-user/server.py (3546ms)
+2024-10-18 20:13:36.713 [info] [Info  - 8:13:36 PM] (4359) [BG(1)] Long operation: analyzing: file:///home/ec2-user/server.py (3758ms)
+2024-10-18 20:13:37.585 [info] [Info  - 8:13:37 PM] (4359) indexed(4) 79 files over 1 exec env
+2024-10-18 20:13:37.637 [info] [Info  - 8:13:37 PM] (4359) Indexing finished(4).
+2024-10-18 20:18:37.581 [info] [Info  - 8:18:37 PM] (4359) Starting service instance "<default>"
+2024-10-18 20:18:37.613 [info] [Info  - 8:18:37 PM] (4359) Setting environmentName for service "<default>": "2.7.18 (global)"
+2024-10-18 20:18:37.617 [info] [Info  - 8:18:37 PM] (4359) Setting pythonPath for service "<default>": "/usr/bin/python"
+2024-10-18 20:18:37.618 [info] [Info  - 8:18:37 PM] (4359) No include entries specified; assuming /<default workspace root>
+2024-10-18 20:18:37.618 [info] [Info  - 8:18:37 PM] (4359) Auto-excluding **/node_modules
+2024-10-18 20:18:37.619 [info] [Info  - 8:18:37 PM] (4359) Auto-excluding **/__pycache__
+2024-10-18 20:18:37.619 [info] [Info  - 8:18:37 PM] (4359) Auto-excluding **/.*
+2024-10-18 20:18:37.629 [info] Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+2024-10-18 20:18:37.695 [info] [Error - 8:18:37 PM] (4359) File or directory "/<default workspace root>" does not exist.
+2024-10-18 20:18:37.699 [info] [Info  - 8:18:37 PM] (4359) No source files found.
+2024-10-18 20:18:38.703 [info] [Info  - 8:18:38 PM] (4359) Background analysis(5) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-18 20:18:38.708 [info] [Info  - 8:18:38 PM] (4359) Background analysis(5) started

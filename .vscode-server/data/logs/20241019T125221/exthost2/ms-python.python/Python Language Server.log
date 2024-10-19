@@ -1,0 +1,17 @@
+2024-10-19 12:56:38.169 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-19 12:56:38.737 [info] [Info  - 12:56:38 PM] (9913) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 12:56:38.739 [info] [Info  - 12:56:38 PM] (9913) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-19 12:56:38.748 [info] [Info  - 12:56:38 PM] (9913) Starting service instance "ec2-user"
+2024-10-19 12:56:38.848 [info] [Info  - 12:56:38 PM] (9913) Setting environmentName for service "ec2-user": "2.7.18 (global)"
+2024-10-19 12:56:38.849 [info] [Info  - 12:56:38 PM] (9913) Setting pythonPath for service "ec2-user": "/usr/bin/python"
+2024-10-19 12:56:38.849 [info] [Info  - 12:56:38 PM] (9913) No include entries specified; assuming /home/ec2-user
+2024-10-19 12:56:38.851 [info] [Info  - 12:56:38 PM] (9913) Auto-excluding **/node_modules
+2024-10-19 12:56:38.851 [info] [Info  - 12:56:38 PM] (9913) Auto-excluding **/__pycache__
+2024-10-19 12:56:38.851 [info] [Info  - 12:56:38 PM] (9913) Auto-excluding **/.*
+2024-10-19 12:56:38.857 [info] Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+2024-10-19 12:56:38.999 [info] [Info  - 12:56:38 PM] (9913) Found 2 source files
+2024-10-19 12:56:39.865 [info] [Info  - 12:56:39 PM] (9913) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 12:56:39.872 [info] [Info  - 12:56:39 PM] (9913) Background analysis(1) started

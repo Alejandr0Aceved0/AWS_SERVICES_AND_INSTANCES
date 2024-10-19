@@ -1,0 +1,43 @@
+2024-10-18 21:15:44.685 [info] [Info  - 9:15:44 PM] (3781) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-18 21:15:44.687 [info] [Info  - 9:15:44 PM] (3781) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-18 21:15:44.696 [info] [Info  - 9:15:44 PM] (3781) Starting service instance "ec2-user"
+2024-10-18 21:15:44.769 [info] [Info  - 9:15:44 PM] (3781) Setting environmentName for service "ec2-user": "2.7.18 (global)"
+2024-10-18 21:15:44.770 [info] [Info  - 9:15:44 PM] (3781) Setting pythonPath for service "ec2-user": "/usr/bin/python"
+2024-10-18 21:15:44.771 [info] [Info  - 9:15:44 PM] (3781) No include entries specified; assuming /home/ec2-user
+2024-10-18 21:15:44.772 [info] [Info  - 9:15:44 PM] (3781) Auto-excluding **/node_modules
+2024-10-18 21:15:44.772 [info] [Info  - 9:15:44 PM] (3781) Auto-excluding **/__pycache__
+2024-10-18 21:15:44.773 [info] [Info  - 9:15:44 PM] (3781) Auto-excluding **/.*
+2024-10-18 21:15:44.778 [info] Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+2024-10-18 21:15:44.916 [info] [Info  - 9:15:44 PM] (3781) Found 2 source files
+2024-10-18 21:15:46.694 [info] [Info  - 9:15:46 PM] (3781) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-18 21:15:46.705 [info] [Info  - 9:15:46 PM] (3781) Background analysis(1) started
+2024-10-18 21:15:46.922 [info] [Info  - 9:15:46 PM] (3781) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-18 21:15:46.923 [info] [Info  - 9:15:46 PM] (3781) Indexing(2) started
+2024-10-18 21:15:49.006 [info] [Info  - 9:15:49 PM] (3781) scanned(2) 79 files over 1 exec env
+2024-10-18 21:15:49.967 [info] [Info  - 9:15:49 PM] (3781) indexed(2) 79 files over 1 exec env
+2024-10-18 21:15:50.075 [info] [Info  - 9:15:50 PM] (3781) Indexing finished(2).
+2024-10-18 21:15:51.339 [info] [Info  - 9:15:51 PM] (3781) [BG(1)] Long operation: checking: file:///home/ec2-user/server.py (3244ms)
+2024-10-18 21:15:51.340 [info] [Info  - 9:15:51 PM] (3781) [BG(1)] Long operation: analyzing: file:///home/ec2-user/server.py (3260ms)
+2024-10-18 21:15:54.600 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-10-18 21:15:54.600 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-18 21:34:13.061 [info] [Info  - 9:34:13 PM] (3781) Setting environmentName for service "ec2-user": "2.7.18 (global)"
+2024-10-18 21:34:13.062 [info] [Info  - 9:34:13 PM] (3781) Setting pythonPath for service "ec2-user": "/usr/bin/python"
+2024-10-18 21:34:13.063 [info] [Info  - 9:34:13 PM] (3781) No include entries specified; assuming /home/ec2-user
+2024-10-18 21:34:13.067 [info] [Info  - 9:34:13 PM] (3781) Auto-excluding **/node_modules
+2024-10-18 21:34:13.070 [info] [Info  - 9:34:13 PM] (3781) Auto-excluding **/__pycache__
+2024-10-18 21:34:13.070 [info] [Info  - 9:34:13 PM] (3781) Auto-excluding **/.*
+2024-10-18 21:34:13.079 [info] Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+2024-10-18 21:34:13.220 [info] [Info  - 9:34:13 PM] (3781) Found 2 source files
+2024-10-18 21:34:15.990 [info] [Info  - 9:34:15 PM] (3781) Indexer background runner(3) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-18 21:34:15.994 [info] [Info  - 9:34:15 PM] (3781) Indexing(3) started
+2024-10-18 21:34:18.047 [info] [Info  - 9:34:18 PM] (3781) scanned(3) 79 files over 1 exec env
+2024-10-18 21:34:18.234 [info] [Info  - 9:34:18 PM] (3781) [BG(1)] Long operation: checking: file:///home/ec2-user/server.py (3918ms)
+2024-10-18 21:34:18.239 [info] [Info  - 9:34:18 PM] (3781) [BG(1)] Long operation: analyzing: file:///home/ec2-user/server.py (3958ms)
+2024-10-18 21:34:18.891 [info] [Info  - 9:34:18 PM] (3781) indexed(3) 79 files over 1 exec env
+2024-10-18 21:34:18.944 [info] [Info  - 9:34:18 PM] (3781) Indexing finished(3).
