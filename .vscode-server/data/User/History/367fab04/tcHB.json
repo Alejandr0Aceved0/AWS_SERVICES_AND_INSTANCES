@@ -1,0 +1,6 @@
+{
+    "remote.SSH.remotePlatform": {
+        "ssh-ins-1": "linux"
+    },
+    "git.autofetch": true
+}

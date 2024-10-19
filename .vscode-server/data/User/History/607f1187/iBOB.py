@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route ("/")
 def home_func():
-    return render_template("home.html")
+    return render_template("pepe.html")
 
 @app.route("/register_page")
 def register_page_func():

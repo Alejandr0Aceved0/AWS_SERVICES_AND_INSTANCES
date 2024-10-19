@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from database.db import *
+from database import *
 
 app = Flask(__name__)
 
@@ -18,6 +18,6 @@ def register_render_func():
     return "THE USER WAS ADDED"
 
 if __name__ == "__main__":
-    host = "172.31.45.234"
-    port = 80
+    host = "172.31.45.234"  # Puedes cambiar esto a '0.0.0.0' para permitir el acceso externo
+    port = 5000  # Cambiado de 80 a 5000
     app.run(host, port)
