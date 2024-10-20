@@ -21,3 +21,93 @@
 2024-10-19 12:56:36.315 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
 2024-10-19 12:57:20.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 16702
 2024-10-19 12:57:21.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 16702
+2024-10-19 13:04:18.358 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.359 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.360 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.360 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.360 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)
+2024-10-19 13:04:18.361 [error] Error: Cannot call write after a stream was destroyed
+	at errorBuffer (node:internal/streams/writable:731:33)
+	at afterWrite (node:internal/streams/writable:712:5)
+	at onwrite (node:internal/streams/writable:686:7)
+	at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:88:12)

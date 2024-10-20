@@ -73,3 +73,16 @@ sudo python server.py
 sudo python3 server.py
 clear
 sudo python3 server.py
+git -status
+git branch
+git add archivo.txt
+git add someQueries.sql
+git add .
+git commit -m "Descripción de los cambios realizados"
+git push origin main
+clear
+sydo python server.py
+sudo python server.py
+sudo python3 server.py
+clear
+sudo python3 server.py

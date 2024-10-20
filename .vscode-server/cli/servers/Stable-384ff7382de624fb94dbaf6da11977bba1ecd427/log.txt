@@ -5,24 +5,24 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to /tmp/code-69597c33-cb74-4ad9-a5fe-6d00f8b40993
-Extension host agent listening on /tmp/code-69597c33-cb74-4ad9-a5fe-6d00f8b40993
+Server bound to /tmp/code-6b825ddc-fec1-4e2d-a86b-a6e168cb6b37
+Extension host agent listening on /tmp/code-6b825ddc-fec1-4e2d-a86b-a6e168cb6b37
 
-[12:52:21] 
-
-
+[02:49:16] 
 
 
-[12:52:22] Extension host agent started.
-[12:52:22] [<unknown>][858195c7][ManagementConnection] New connection established.
-[12:52:22] [<unknown>][f66027ed][ExtensionHostConnection] New connection established.
-[12:52:22] [<unknown>][f66027ed][ExtensionHostConnection] <3341> Launched Extension Host Process.
-[12:52:45] [<unknown>][858195c7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[12:52:45] [<unknown>][f66027ed][ExtensionHostConnection] <3341> Extension Host Process exited with code: 0, signal: null.
+
+
+[02:49:16] Extension host agent started.
+[02:49:17] [<unknown>][12747f04][ManagementConnection] New connection established.
+[02:49:17] [<unknown>][53001e7c][ExtensionHostConnection] New connection established.
+[02:49:17] [<unknown>][53001e7c][ExtensionHostConnection] <3336> Launched Extension Host Process.
+[02:51:16] [<unknown>][12747f04][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:51:16] [<unknown>][53001e7c][ExtensionHostConnection] <3336> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
-[12:52:45] Cancelling previous shutdown timeout
+[02:51:16] Cancelling previous shutdown timeout
 Last EH closed, waiting before shutting down
-[12:52:45] Last EH closed, waiting before shutting down
-[12:52:48] [<unknown>][7cf929fe][ManagementConnection] New connection established.
-[12:52:48] [<unknown>][77eac4a0][ExtensionHostConnection] New connection established.
-[12:52:48] [<unknown>][77eac4a0][ExtensionHostConnection] <3456> Launched Extension Host Process.
+[02:51:16] Last EH closed, waiting before shutting down
+[02:51:43] [<unknown>][09f958a8][ManagementConnection] New connection established.
+[02:51:43] [<unknown>][6e978e75][ExtensionHostConnection] New connection established.
+[02:51:43] [<unknown>][6e978e75][ExtensionHostConnection] <3457> Launched Extension Host Process.

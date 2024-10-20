@@ -19,7 +19,7 @@ except Exception as e:
         print("ERROR EN CONECTAR A LA BD, ERROR ES: ", e)
 
 
-def add_user():
+def add_user(id, name, lastname, birthday):
     
     use_database = "USE db_users;"
 
@@ -33,7 +33,7 @@ def add_user():
         print("ERROR EN AL USAR BD, ERROR ES: ", e)
 
 
-    instruction_sql = "INSERT INTO users(id, name, last_name, birthday) VALUES (456, 'CARLOS', 'ACEVEDO', '1998-29-08');"
+    instruction_sql = "INSERT INTO users(id, name, last_name, birthday) VALUES ("+id+", '"+name+"', '"+lastname+"', '"+birthday+"',);"
     
     try:
         cursor = connection.cursor()
@@ -45,4 +45,31 @@ def add_user():
         print("ERROR EN AL INSERTAR EL REGISTRO, ERROR ES: ", e)
 
 
-add_user()
+def consult_user_by_id(id):
+    use_database = "USE db_users;"
+
+    try:
+        cursor = connection.cursor()
+        cursor.execute(use_database)
+        connection.commit()
+        print("BD USADA")
+
+    except Exception as e:
+        print("ERROR EN AL USAR BD, ERROR ES: ", e)
+              
+    instruction_sql = "SELECT * FROM users WHERE id = %s;"
+    
+    try:
+        cursor = connection.cursor()
+        cursor.execute(instruction_sql, (id,))  # Usa una tupla para pasar el parámetro
+        result = cursor.fetchall()
+        print("HACIENDO CONSULTA POR ID:", id)
+        print("RESULTADO ES: ", result)
+        return result
+
+    except Exception as e:
+        print("ERROR EN LA CONSULTA, ERROR ES:", e)
+        return None  # Retorna None o maneja el error de otra manera
+    finally:
+        cursor.close()  # Asegúrate de cerrar el cursor si ya no lo necesitas
+

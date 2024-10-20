@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Consulta</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='/static/styles/appConsult.css'>
+    <script src='/static/js/appConsult.js'></script>
+</head>
+<body>
+    <section class="get-in-touch">
+       <h1 class="title">Consulta</h1>
+       <form method="post" class="contact-form column">
+          <div class="form-field col x-50">
+             <input id="id" class="input-text js-input" type="text" name="id">
+             <label class="label" for="name">Id</label>
+          </div>
+          <div class="form-field col x-100 align-center">
+          <button onclick="consult_user()" class="button-30" role="button">Consultar</button>
+       </div>
+
+       <div>
+            <textarea id="txt-area"></textarea>
+       </div>
+       </form>
+    </section>
+ </body>
+</html>

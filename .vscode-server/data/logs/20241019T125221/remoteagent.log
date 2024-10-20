@@ -19,3 +19,12 @@
     at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
     at process.emit (node:events:531:35)
 2024-10-19 13:03:48.838 [info] [<unknown>][77eac4a0][ExtensionHostConnection] The client has reconnected.
+2024-10-19 13:04:09.322 [info] [<unknown>][77eac4a0][ExtensionHostConnection] The client has reconnected.
+2024-10-19 13:04:19.505 [info] [<unknown>][77eac4a0][ExtensionHostConnection] <3456> Extension Host Process exited with code: null, signal: SIGKILL.
+2024-10-19 13:04:19.519 [info] Last EH closed, waiting before shutting down
+2024-10-19 13:04:29.873 [error] [<unknown>][77eac4a0][ExtensionHostConnection] Unknown reconnection token (seen before).
+2024-10-19 13:05:03.529 [info] [<unknown>][5d0301b7][ExtensionHostConnection] New connection established.
+2024-10-19 13:05:03.531 [info] [<unknown>][365bd240][ManagementConnection] New connection established.
+2024-10-19 13:05:03.537 [info] [<unknown>][5d0301b7][ExtensionHostConnection] <9179> Launched Extension Host Process.
+2024-10-19 13:05:29.213 [info] [<unknown>][7cf929fe][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-10-19 13:09:19.520 [info] New EH opened, aborting shutdown
