@@ -58,7 +58,16 @@ def consult_user():
         return "Error al consultar el usuario", 500
 
 
+#if __name__ == "__main__":
+#    host = "172.31.93.14"
+#    port = 80
+#    app.run(host, port)
+
+
 if __name__ == "__main__":
-    host = "172.31.45.234"
-    port = 80
-    app.run(host, port)
+    host = "0.0.0.0"
+    port = 5000
+    app.run(host, port, debug=True)
+
+# Comando docker para ejecutar la imagen segun los puertos de entrada y salida
+# sudo docker run -p 80:80 imagen-app
