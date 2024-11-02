@@ -1,0 +1,14 @@
+Instalar Docker: sudo yum -y install docker
+
+Iniciar servicio de docker: sudo systemctl start docker
+
+Crear una imagen docker, lo hace raiz del archivo "DockerFile": sudo docker build -t img-app-2 .
+
+Correr o probar la imagen creada: sudo docker run -p 80:5000 imagen-app-2
+80:5000 : puerto de entrada = 80, puerto de salida = 5000
+
+Enviar la imagen compilada a docker HUB, esta ruta la crear y nos la mue11stra dockerHub, al crear nuestro repositorio en Docker Hub, donde tagname es el nombre de la imagen creada en pasos anteriores:
+    
+    PASOS DE PUSH: 
+    1. CREAR IMAGEN: sudo docker build -t alejoacevedoespitia/aws_290_dockerhub_2024:imagen-app-2 . 
+    2. HACER PUSH: docker push alejoacevedoespitia/aws_290_dockerhub_2024:imagen-app-2

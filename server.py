@@ -66,8 +66,9 @@ def consult_user():
 
 if __name__ == "__main__":
     host = "0.0.0.0"
-    port = 5000
+    port = 80
     app.run(host, port, debug=True)
+    
 
 # Comando docker para ejecutar la imagen segun los puertos de entrada y salida
-# sudo docker run -p 80:80 imagen-app
+# sudo docker run -p 80:80 imagen-app   D
